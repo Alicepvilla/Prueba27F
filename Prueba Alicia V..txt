@@ -1,0 +1,12 @@
+Se pide crear una superclase llamada Electrodomestico.cuyos atributos son Precio Base, Color, Consumo Energético y
+Peso.  Desde esta clase se debe comprobar el consumo energético, el color y el precio final que dependerá del consumo 
+y del tamaño del electrodoméstico.
+
+La clase Lavadora tiene como atributo su carga.
+Desde esta clase se debe comprobar el precio final que dependerá de su carga.
+
+La clase Televisión tiene como atributos Resolución y Sintonizador.
+Desde esta clase se debe comprobar el precio final que dependerá de la resolución y si tiene sintonizador.
+
+Para la clase Principal se debe crear un arreglo de 10 posiciones con los electrodomesticos y se debe mostrar el 
+precio final de la clase Lavadora, Televisión y Electrodoméstico.
